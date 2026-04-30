@@ -76,11 +76,10 @@ In a real-world setting, the next steps would include:
 ---
 ## How to Run
 
-pip install -r requirements.txt  
+pip install -r requirements.txt
 python src/analysis.py
 
 ---
-
 ## Project Structure
 ab-testing-case-study-measuring-treatment-impact-and-business-lift/
 │
@@ -101,7 +100,7 @@ ab-testing-case-study-measuring-treatment-impact-and-business-lift/
 - A/B testing is most valuable when tied to real business decisions
 
 ---
-
 ## Author
 
 **Alexandria Green**
+
