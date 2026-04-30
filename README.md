@@ -74,14 +74,20 @@ In a real-world setting, the next steps would include:
 - seaborn  
 
 ---
+## How to Run
+
+pip install -r requirements.txt  
+python src/analysis.py
+
+---
 
 ## Project Structure
 ab-testing-case-study-measuring-treatment-impact-and-business-lift/
 │
 ├── src/
-│ └── analysis.py
+│   └── analysis.py
 ├── outputs/
-│ └── ab_testing_plot.png
+│   └── ab_testing_plot.png
 ├── requirements.txt
 └── README.md
 
