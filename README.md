@@ -81,6 +81,8 @@ python src/analysis.py
 
 ---
 ## Project Structure
+
+```
 ab-testing-case-study-measuring-treatment-impact-and-business-lift/
 │
 ├── src/
@@ -89,7 +91,7 @@ ab-testing-case-study-measuring-treatment-impact-and-business-lift/
 │   └── ab_testing_plot.png
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Key Takeaways
